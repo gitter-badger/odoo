@@ -3,6 +3,8 @@
 Odoo
 ----
 
+[![Join the chat at https://gitter.im/odoohun/odoo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/odoohun/odoo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Odoo is a suite of web based open source business apps.  More info at http://www.odoo.com
 
 The easiest way to play with it is the <a href="https://www.odoo.com/page/start">Odoo free trial</a>, email registration is NOT required, use the "skip this step" link on the registration page to skip it.
